@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=morphine-kunal&show_icons=true&locale=en" alt="morphine-kunal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=morphine-kunal&" alt="morphine-kunal" /></p>
+
+<img height="120" alt="Thanks for visiting me" color="white" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
